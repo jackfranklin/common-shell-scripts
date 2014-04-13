@@ -1,0 +1,14 @@
+{
+  "name": "common-shell-scripts",
+  "version": "0.0.1",
+  "description": "A set of small NodeJS scripts that might come in useful.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "shell"
+  ],
+  "author": "Jack Franklin",
+  "license": "ISC"
+}
