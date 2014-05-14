@@ -12,7 +12,7 @@ Then you can call a script, for example the `watch` script, like so:
 ./node_modules/common-shell-scripts/watch {arg1} {arg2}
 ```
 
-The typical usage is to put these into a Makefile, or similar.
+The typical usage is to put these into a Makefile, or similar. The [Makefile of Totesy](https://github.com/jackfranklin/totesy/blob/master/Makefile) shows this in action.
 
 ## Commands
 
